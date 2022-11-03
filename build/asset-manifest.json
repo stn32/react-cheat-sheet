@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/stn32/react-cheat-sheet/static/css/main.c78dc6fc.css",
+    "main.js": "/stn32/react-cheat-sheet/static/js/main.d13062a3.js",
+    "static/js/787.1be441c6.chunk.js": "/stn32/react-cheat-sheet/static/js/787.1be441c6.chunk.js",
+    "static/media/logo.svg": "/stn32/react-cheat-sheet/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/stn32/react-cheat-sheet/index.html",
+    "main.c78dc6fc.css.map": "/stn32/react-cheat-sheet/static/css/main.c78dc6fc.css.map",
+    "main.d13062a3.js.map": "/stn32/react-cheat-sheet/static/js/main.d13062a3.js.map",
+    "787.1be441c6.chunk.js.map": "/stn32/react-cheat-sheet/static/js/787.1be441c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c78dc6fc.css",
+    "static/js/main.d13062a3.js"
+  ]
+}
